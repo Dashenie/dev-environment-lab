@@ -1,7 +1,5 @@
+https://i.imgur.com/YwLjt1h.png
 # dev-environment-lab
-# dev-environment-lab
-# dev-environment-lab
-![Screenshot!](https://imgur.com/YwLjt1h)
 ## OS
 
 darwin20.0
